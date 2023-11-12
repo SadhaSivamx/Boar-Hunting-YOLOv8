@@ -1,0 +1,4 @@
+train : /content/Buddha/train/images
+val : /content/Buddha/test/images
+nc : 1
+classes : ['Buddha']
